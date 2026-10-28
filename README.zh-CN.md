@@ -8,6 +8,8 @@
 
 Prism 系列的明暗双生：Dracula 的紫色夜幕，与官方 Alucard 的温暖纸页。青蓝链接与玫粉标签，让思绪各有归处。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![Dracula · Prism 深色模式实拍](docs/dracula-dark.png)

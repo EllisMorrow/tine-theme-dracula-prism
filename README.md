@@ -15,6 +15,8 @@
 
 A complete light-and-dark pair in the Prism collection: the violet night of Dracula, and the warm paper of its official Alucard companion. Cyan-blue links and rose-pink tags give each thought its own place.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![Dracula · Prism in Tine dark mode](docs/dracula-dark.png)
